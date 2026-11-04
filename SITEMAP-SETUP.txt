@@ -1,0 +1,1 @@
+Replace https://YOUR-CHOSEN-DOMAIN with the final HTTPS domain, then save as sitemap.xml in the site root. Include the home page, catalogue, three probe category pages, and individual probe pages. Submit the final sitemap URL in Google Search Console after domain verification.

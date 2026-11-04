@@ -1,0 +1,149 @@
+[
+  {
+    "name": "AHO1 Automotive",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/aho1.png",
+    "pdf": "assets/datasheets/aho1.pdf",
+    "documentTitle": "Datasheet-High-Resolution-Automotive-Oscilloscope-AHO1-Series-Micsig-EN_2604_1776243347.pdf"
+  },
+  {
+    "name": "ATO Automotive",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/ato.png",
+    "pdf": "assets/datasheets/ato.pdf",
+    "documentTitle": "Automotive-Oscilloscope-ATO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "ETO Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/eto.png",
+    "pdf": "assets/datasheets/eto.pdf",
+    "documentTitle": "GEN5-Tablet-Oscilloscope-ETO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "MDO Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/mdo.png",
+    "pdf": "assets/datasheets/mdo.pdf",
+    "documentTitle": "GEN5-Digital-Oscilloscope-MDO-Series-Datasheet-Micsig-EN_1763724764.pdf"
+  },
+  {
+    "name": "MHO1 Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/mho1.jpg",
+    "pdf": "assets/datasheets/mho1.pdf",
+    "documentTitle": "DataSheet-HighResolutionTabletOscilloscopeMHO1Series-V2_1765967215.pdf"
+  },
+  {
+    "name": "MHO3 Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/mho3.png",
+    "pdf": "assets/datasheets/mho3.pdf",
+    "documentTitle": "High-Resolution-Oscilloscope-MHO3-Series-Datasheet-Micsig-EN_1763724682.pdf"
+  },
+  {
+    "name": "MHO6 Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/mho6.png",
+    "pdf": "assets/datasheets/mho6.pdf",
+    "documentTitle": "Datasheet - High Resolution Oscilloscope MHO6 Series-EN.pdf"
+  },
+  {
+    "name": "MO34 Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/mo34.png",
+    "pdf": "assets/datasheets/mo34.pdf",
+    "documentTitle": "DataSheet-HighResolutionModularOscilloscopeMO3Series[ENG]-2025.08.29_1764238087.pdf"
+  },
+  {
+    "name": "SATO Automotive",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/sato.png",
+    "pdf": "assets/datasheets/sato.pdf",
+    "documentTitle": "Automotive-Oscilloscope-SATO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "STO Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/sto.png",
+    "pdf": "assets/datasheets/sto.pdf",
+    "documentTitle": "Tablet-Oscilloscope-STO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "TO Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/to.png",
+    "pdf": "assets/datasheets/to.pdf",
+    "documentTitle": "GEN4-Tablet-Oscilloscope-TO-Series-Datasheet-Micsig-EN-20251229_1767525308.pdf"
+  },
+  {
+    "name": "VATO Automotive",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/vato.jpg",
+    "pdf": "assets/datasheets/vato.pdf",
+    "documentTitle": "Automotive-Oscilloscope-VATO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "VTO Series",
+    "category": "Oscilloscopes",
+    "image": "assets/catalog/vto.png",
+    "pdf": "assets/datasheets/vto.pdf",
+    "documentTitle": "Android(USB)-Oscilloscope-VTO-Series-Datasheet-Micsig-EN.pdf"
+  },
+  {
+    "name": "ACP1000",
+    "category": "Probes",
+    "image": "assets/catalog/acp1000.jpg",
+    "pdf": "assets/datasheets/acp1000.pdf",
+    "documentTitle": "AC-Current-Probe-ACP1000-Brochure-Micsig-EN.pdf",
+    "detail": "products/acp1000/index.html"
+  },
+  {
+    "name": "CP Series",
+    "category": "Probes",
+    "image": "assets/catalog/cp.jpg",
+    "pdf": "assets/datasheets/cp.pdf",
+    "documentTitle": "Product Introduction-High Frequency ACDC Current Probe CP series.pdf",
+    "detail": "products/cp-series/index.html"
+  },
+  {
+    "name": "CP2100 Series",
+    "category": "Probes",
+    "image": "assets/catalog/cp2100.png",
+    "pdf": "assets/datasheets/cp2100.pdf",
+    "documentTitle": "Low-Frequency-AC&DC-Current-Probe-CP2100-Series-Brochure-Micsig-EN.pdf",
+    "detail": "products/cp2100/index.html"
+  },
+  {
+    "name": "DP Series",
+    "category": "Probes",
+    "image": "assets/catalog/dp.png",
+    "pdf": "assets/datasheets/dp.pdf",
+    "documentTitle": "Brochure - DP-series-high-voltage-differential-probe_202603.pdf",
+    "detail": "products/dp-series/index.html"
+  },
+  {
+    "name": "SigOFIT Gen 2",
+    "category": "Probes",
+    "image": "assets/catalog/sigofit-gen2.png",
+    "pdf": "assets/datasheets/sigofit-gen2.pdf",
+    "documentTitle": "Brochure-SigOFIToptical-fiberisolatedprobe_V2_1767073200.pdf",
+    "detail": "products/sigofit-gen2/index.html"
+  },
+  {
+    "name": "SigOFIT Gen 3",
+    "category": "Probes",
+    "image": "assets/catalog/sigofit-gen3.jpg",
+    "pdf": "assets/datasheets/sigofit-gen3.pdf",
+    "documentTitle": "Brochure SigOFIT Gen 3 optical-fiber isolated probe.pdf",
+    "detail": "products/sigofit-gen3/index.html"
+  },
+  {
+    "name": "RCP Series",
+    "category": "Probes",
+    "image": "assets/catalog/rcp.png",
+    "pdf": "assets/datasheets/rcp.pdf",
+    "documentTitle": "Brochure-Rogowski-AC-Current-Probe-RCP-Series-EN-20251203_1765247024.pdf",
+    "detail": "products/rcp-series/index.html"
+  }
+]

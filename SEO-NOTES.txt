@@ -1,0 +1,6 @@
+Site media and SEO notes
+
+- The supplied Micsig logo is in assets/micsig-logo.png and is used on the home and catalog pages.
+- India-focused page titles and descriptions target Micsig oscilloscopes, handheld/tablet/automotive oscilloscopes, probes, datasheets, and authorised distributor enquiries.
+- Structured Organization data on the home page uses Vianova Industrial Solutions' supplied Ghaziabad contact details.
+- Add the final canonical URL and social preview URL after choosing and activating the domain.

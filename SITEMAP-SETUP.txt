@@ -5,7 +5,7 @@ Sitemap URL: https://www.micsig.in/sitemap.xml
 Alternate .co.in sitemap URL: https://www.micsig.co.in/sitemap-co-in.xml
 Robots URL: https://www.micsig.in/robots.txt
 
-The root sitemap lists the homepage, catalogue, oscilloscope landing page, four probe-category pages, and seven product pages. Page-level canonical tags use the same preferred host. Keep these URLs consistent with the domains attached to the Vercel production project.
+The .in sitemap lists the homepage, catalogue, oscilloscope landing page, four probe-category pages, and seven product pages. The .co.in sitemap contains the same page paths on the .co.in host. Whenever a crawlable page is added, removed, or moved, update both sitemap files in the same change and keep robots.txt pointing to both. Page-level canonical tags continue to prefer https://www.micsig.in.
 
 Google Search Console submission
 1. In Search Console, add the Domain property micsig.in.
@@ -14,6 +14,6 @@ Google Search Console submission
 4. Open Sitemaps for the micsig.in property and submit sitemap.xml. Confirm the displayed sitemap URL is https://www.micsig.in/sitemap.xml.
 5. After Google processes it, review the Sitemaps and Pages reports for fetch or indexing issues.
 
-Because micsig.co.in is also owned, add it to the same Vercel project and configure it to permanently redirect to https://www.micsig.in. The alternate-host sitemap is provided only if the .co.in host serves pages directly. If it redirects to .in, do not submit sitemap-co-in.xml; submit only the canonical .in sitemap to avoid listing redirected URLs. Redirect micsig.in and the non-primary www variants to the preferred host too.
+Because micsig.co.in is also owned, add it to the same Vercel project. The .co.in sitemap is maintained in parallel at the user request. If .co.in permanently redirects to .in, submit the canonical .in sitemap to Google Search Console; submit sitemap-co-in.xml only if the .co.in host serves its listed pages directly. Redirect micsig.in and non-primary www variants to https://www.micsig.in to keep one canonical host.
 
 Submitting a sitemap helps Google discover URLs; it does not guarantee that every page will be crawled or indexed.

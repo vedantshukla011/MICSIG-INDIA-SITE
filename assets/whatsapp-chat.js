@@ -11,7 +11,7 @@
   style.textContent = css;
   document.head.appendChild(style);
 
-  const chatUrl = new URL('https://wa.me/919654109754');
+  const chatUrl = new URL('https://wa.me/919205028508');
   chatUrl.searchParams.set('text', 'We have a requirement for Micsig Product');
   const link = document.createElement('a');
   link.className = 'micsig-whatsapp-float';

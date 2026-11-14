@@ -10,12 +10,12 @@ The site now has dedicated, crawlable pages for:
 
 The pages contain model families, relevant technical details from the supplied Micsig PDFs, product images, datasheet or brochure links, and links to Vianova's India contact details. The home page and catalogue link to the three probe categories.
 
-## Before publishing
+## Publishing and Search Console
 
-1. Choose one primary domain and connect it to Webflow. Redirect the other domain to the primary domain so there is one public version of the site.
-2. In Webflow, add a unique page title and meta description for each page. Keep the product and category slugs descriptive, such as `/probes/current-probes/`.
-3. Enable Webflow's auto-generated sitemap, publish the custom domain, and verify the site in Google Search Console. Submit `sitemap.xml` and request indexing for the three category pages and the seven probe family pages.
-4. Confirm the published pages load without a login, are mobile-friendly, use HTTPS, and are not marked `noindex`. Prevent the Webflow staging domain from being indexed where the plan allows.
+1. Connect `www.micsig.in` to the Vercel production project as the preferred host. Add `micsig.in` and both `micsig.co.in` variants to the project and permanently redirect them to `https://www.micsig.in`.
+2. Keep a unique page title and meta description on each page. Canonical links and sitemap entries now use the preferred `www.micsig.in` host.
+3. Verify the `micsig.in` Domain property in Google Search Console with a GoDaddy DNS TXT record, then submit `https://www.micsig.in/sitemap.xml` in the Sitemaps report.
+4. Confirm the preferred domain and all listed pages load publicly over HTTPS and are not marked `noindex`.
 5. Keep VIANOVA INDUSTRIAL SOLUTIONS' name, Ghaziabad address, phone and email consistent on the site and business listings. If eligible, verify its Google Business Profile and complete the business details.
 6. Ask Micsig to link to the India distributor site from its official distributor/contact pages. Also seek relevant links from industry associations, test-equipment partners and technical publications.
 7. Use Search Console's Performance report to track India queries and pages. Expand model-specific pages when there is useful, distinct model information to add from the supplied datasheets.
@@ -31,5 +31,5 @@ Avoid making many near-identical pages that only swap a product or city name. Ad
 - Google SEO Starter Guide: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
 - Google Search spam policies: https://developers.google.com/search/docs/essentials/spam-policies
 - Google guidance for multi-regional sites and country-code domains: https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites
-- Webflow sitemap setup: https://help.webflow.com/hc/en-us/articles/33961355371667-Create-a-sitemap-in-Webflow
+- Google Search Central sitemap guidance: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
 - Google Business Profile local ranking: https://support.google.com/business/answer/7091

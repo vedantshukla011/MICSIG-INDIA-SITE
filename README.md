@@ -17,4 +17,4 @@ Vercel Git integration creates preview deployments for non-production branches w
 - `assets/` — selected Micsig product images, logo, CSS and product PDFs
 - `robots.txt` — allows search crawlers
 
-After choosing the primary domain, create/enable an XML sitemap and submit it in Google Search Console. See `SITEMAP-SETUP.txt` and `SEARCH-SEO-PLAN.md`.
+The root `sitemap.xml` and `robots.txt` are configured for `https://www.micsig.in`; page-level canonical tags use the same preferred host. Submit `https://www.micsig.in/sitemap.xml` in Google Search Console after domain verification. See `SITEMAP-SETUP.txt`.

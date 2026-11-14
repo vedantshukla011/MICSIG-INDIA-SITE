@@ -1,1 +1,18 @@
-Replace https://YOUR-CHOSEN-DOMAIN with the final HTTPS domain, then save as sitemap.xml in the site root. Include the home page, catalogue, three probe category pages, and individual probe pages. Submit the final sitemap URL in Google Search Console after domain verification.
+Micsig India sitemap and Google Search Console setup
+
+Preferred canonical host: https://www.micsig.in
+Sitemap URL: https://www.micsig.in/sitemap.xml
+Robots URL: https://www.micsig.in/robots.txt
+
+The root sitemap lists the homepage, catalogue, three probe-category pages, and seven product pages. Page-level canonical tags use the same preferred host. Keep these URLs consistent with the domains attached to the Vercel production project.
+
+Google Search Console submission
+1. In Search Console, add the Domain property micsig.in.
+2. Copy the TXT verification record Google provides. In GoDaddy, open Domain Portfolio > micsig.in > DNS and add that TXT value at the host/name Google specifies. Preserve other TXT and MX records used by email.
+3. Return to Search Console and verify the property.
+4. Open Sitemaps for the micsig.in property and submit sitemap.xml. Confirm the displayed sitemap URL is https://www.micsig.in/sitemap.xml.
+5. After Google processes it, review the Sitemaps and Pages reports for fetch or indexing issues.
+
+Because micsig.co.in is also owned, add it to the same Vercel project and configure it to permanently redirect to https://www.micsig.in. Redirect micsig.in and the non-primary www variants to the preferred host too. Keep only the preferred www.micsig.in URLs in the sitemap.
+
+Submitting a sitemap helps Google discover URLs; it does not guarantee that every page will be crawled or indexed.

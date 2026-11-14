@@ -5,16 +5,15 @@ Sitemap URL: https://www.micsig.in/sitemap.xml
 Alternate .co.in sitemap URL: https://www.micsig.co.in/sitemap-co-in.xml
 Robots URL: https://www.micsig.in/robots.txt
 
-The root sitemap lists the homepage, catalogue, three probe-category pages, and seven product pages. Page-level canonical tags use the preferred .in host. The alternate sitemap lists the same paths on .co.in, for use only if that host serves pages directly.
+The root sitemap lists the homepage, catalogue, oscilloscope landing page, four probe-category pages, and seven product pages. Page-level canonical tags use the same preferred host. Keep these URLs consistent with the domains attached to the Vercel production project.
 
 Google Search Console submission
 1. In Search Console, add the Domain property micsig.in.
 2. Copy the TXT verification record Google provides. In GoDaddy, open Domain Portfolio > micsig.in > DNS and add that TXT value at the host/name Google specifies. Preserve other TXT and MX records used by email.
 3. Return to Search Console and verify the property.
 4. Open Sitemaps for the micsig.in property and submit sitemap.xml. Confirm the displayed sitemap URL is https://www.micsig.in/sitemap.xml.
-5. If micsig.co.in serves the pages directly, separately add and verify its Domain property with its own DNS TXT record, then submit sitemap-co-in.xml there.
-6. After Google processes the sitemap(s), review the Sitemaps and Pages reports for fetch or indexing issues.
+5. After Google processes it, review the Sitemaps and Pages reports for fetch or indexing issues.
 
-If micsig.co.in redirects to https://www.micsig.in, do not submit sitemap-co-in.xml: sitemap URLs should identify the canonical pages rather than redirected aliases. In that case, submit only the .in sitemap. Redirect micsig.in and the non-primary www variants to the preferred host too.
+Because micsig.co.in is also owned, add it to the same Vercel project and configure it to permanently redirect to https://www.micsig.in. The alternate-host sitemap is provided only if the .co.in host serves pages directly. If it redirects to .in, do not submit sitemap-co-in.xml; submit only the canonical .in sitemap to avoid listing redirected URLs. Redirect micsig.in and the non-primary www variants to the preferred host too.
 
 Submitting a sitemap helps Google discover URLs; it does not guarantee that every page will be crawled or indexed.

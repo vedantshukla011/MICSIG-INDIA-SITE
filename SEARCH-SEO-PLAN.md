@@ -5,10 +5,12 @@
 The site now has dedicated, crawlable pages for:
 
 - Micsig current probes: ACP1000, CP Series, CP2100 and RCP.
+- Micsig Rogowski coil current probes: a dedicated RCP Series selection page and the model-specific product page.
+- Micsig oscilloscopes: a dedicated India landing page for MHO, MDO, tablet, automotive and modular families.
 - Micsig high-voltage differential probes: DP Series.
 - Micsig optical-fiber isolated probes: SigOFIT Gen 2 and Gen 3.
 
-The pages contain model families, relevant technical details from the supplied Micsig PDFs, product images, datasheet or brochure links, and links to Vianova's India contact details. The home page and catalogue link to the three probe categories.
+The pages contain model families, relevant technical details from the supplied Micsig PDFs, product images, datasheet or brochure links, and links to Vianova's India contact details. The home page and catalogue link to the oscilloscope and probe category pages.
 
 ## Publishing and Search Console
 
@@ -22,7 +24,7 @@ The pages contain model families, relevant technical details from the supplied M
 
 ## Ranking expectations
 
-No developer or SEO tactic can guarantee the first result for every search. Rankings depend on the query, the searcher's location, competing pages, site quality, and signals from other websites. The current pages build relevant coverage for the requested probe categories; performance can only be assessed after the site is live and eligible for indexing.
+No developer or SEO tactic can guarantee the first result for every search. Rankings depend on the query, the searcher's location, competing pages, site quality, and signals from other websites. The category pages build relevant coverage for the requested product searches; performance must be assessed in Search Console after deployment and indexing.
 
 Avoid making many near-identical pages that only swap a product or city name. Add useful model comparison, selection guidance and accurate product information instead.
 

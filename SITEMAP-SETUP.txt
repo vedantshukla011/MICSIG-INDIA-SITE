@@ -5,7 +5,7 @@ Sitemap URL: https://www.micsig.in/sitemap.xml
 Alternate .co.in sitemap URL: https://www.micsig.co.in/sitemap-co-in.xml
 Robots URL: https://www.micsig.in/robots.txt
 
-The .in sitemap lists the homepage, catalogue, oscilloscope landing page, four probe-category pages, and seven product pages. The .co.in sitemap contains the same page paths on the .co.in host. Whenever a crawlable page is added, removed, or moved, update both sitemap files in the same change and keep robots.txt pointing to both. Page-level canonical tags continue to prefer https://www.micsig.in.
+The .in sitemap lists the homepage, catalogue, oscilloscope landing page, four probe-category pages, and 18 product-family pages, including the MHO1, MHO3, MHO6, MO34, MDO, ETO, TO, STO, AHO, ATO/SATO and VATO oscilloscope pages. The .co.in sitemap contains the same page paths on the .co.in host. Whenever a crawlable page is added, removed, or moved, update both sitemap files in the same change and keep robots.txt pointing to both. Page-level canonical tags continue to prefer https://www.micsig.in.
 
 Google Search Console submission
 1. In Search Console, add the Domain property micsig.in.

@@ -6,7 +6,7 @@ The site now has dedicated, crawlable pages for:
 
 - Micsig current probes: ACP1000, CP Series, CP2100 and RCP.
 - Micsig Rogowski coil current probes: a dedicated RCP Series selection page and the model-specific product page.
-- Micsig oscilloscopes: a dedicated India landing page for MHO, MDO, tablet, automotive and modular families.
+- Micsig oscilloscopes: model-specific pages for MHO1, MHO3, MHO6, MO34, MDO, ETO, TO, STO, AHO, ATO/SATO and VATO, with model tables, prices excluding GST, datasheets and competitive-offer enquiries.
 - Micsig high-voltage differential probes: DP Series.
 - Micsig optical-fiber isolated probes: SigOFIT Gen 2 and Gen 3.
 
@@ -20,7 +20,7 @@ The pages contain model families, relevant technical details from the supplied M
 4. Confirm the preferred domain and all listed pages load publicly over HTTPS and are not marked `noindex`.
 5. Keep VIANOVA INDUSTRIAL SOLUTIONS' name, Ghaziabad address, phone and email consistent on the site and business listings. If eligible, verify its Google Business Profile and complete the business details.
 6. Ask Micsig to link to the India distributor site from its official distributor/contact pages. Also seek relevant links from industry associations, test-equipment partners and technical publications.
-7. Use Search Console's Performance report to track India queries and pages. Expand model-specific pages when there is useful, distinct model information to add from the supplied datasheets.
+7. Use Search Console's Performance report to track India queries and pages. Expand model-specific pages when there is useful, distinct model information to add from the supplied datasheets and keep published prices and availability current.
 
 ## Ranking expectations
 

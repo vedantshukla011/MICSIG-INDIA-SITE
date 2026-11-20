@@ -35,3 +35,4 @@ Avoid making many near-identical pages that only swap a product or city name. Ad
 - Google guidance for multi-regional sites and country-code domains: https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites
 - Google Search Central sitemap guidance: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
 - Google Business Profile local ranking: https://support.google.com/business/answer/7091
+

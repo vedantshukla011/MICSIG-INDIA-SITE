@@ -17,3 +17,4 @@ Google Search Console submission
 Because micsig.co.in is also owned, add it to the same Vercel project. The .co.in sitemap is maintained in parallel at the user request. If .co.in permanently redirects to .in, submit the canonical .in sitemap to Google Search Console; submit sitemap-co-in.xml only if the .co.in host serves its listed pages directly. Redirect micsig.in and non-primary www variants to https://www.micsig.in to keep one canonical host.
 
 Submitting a sitemap helps Google discover URLs; it does not guarantee that every page will be crawled or indexed.
+
